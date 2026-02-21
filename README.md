@@ -6,8 +6,7 @@ Compress images instantly in your browser with smart naming, AVIF support, GIF d
 ---
 
 ## 🌐 Live Demo
-👉 Add your deployed link here  
-Example: https://net-gallery-hb.netlify.app
+👉 https://advance-images-compressor.netlify.app/
 
 ---
 
